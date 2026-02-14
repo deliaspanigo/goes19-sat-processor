@@ -27,3 +27,4 @@ goes19 download --help
 Los archivos se guardan en data/raw/noaa-goes19/... con estructura organizada por producto/año/día/hora.# goes19-sat-processor
 # goes19-sat-processor
 # goes19-sat-processor
+# MAIE_tesis_github
